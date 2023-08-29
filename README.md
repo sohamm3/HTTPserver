@@ -3,7 +3,7 @@
 
 ## Clone
 ```
- git clone https://gitlab.com/abhaykoushal/http-server.git
+ git clone https://github.com/sohamm3/HTTPserver.git
 ```
 ## Starting Server
 ```
