@@ -2,8 +2,8 @@ import os
 import random
 
 # for authentication in delete request
-USERNAME = "abhay"
-PASSWORD = "abhaykoushal@2020"
+USERNAME = ""
+PASSWORD = ""
 
 # root directory
 ROOT = os.getcwd()
